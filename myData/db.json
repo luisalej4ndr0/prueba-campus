@@ -1,0 +1,67 @@
+{
+    "rutas":[
+    {
+        "nombreRutas": "",
+        "nombreRuta": "",
+        "ciudadOrigen": "",
+        "ciudadDestino":"",
+        "totalMillas":"",
+        "valorMilla":"",
+        "id":""
+
+
+
+    }
+
+    ],
+    "clientes":[
+    {
+        "createdAt":"",
+        "nroIdentificacion":"",
+        "nombres":"",
+        "apellidos":"",
+        "telefono":"",
+        "fechaNacimiento":"",
+        "origenCiudad":"",
+        "origenPais":"",
+        "correo":"",
+        "id":""
+    }
+    
+
+
+
+    ],
+    "flotaAerea":[
+        {
+            "nroAeronaves":"",
+            "cantidadPasajeros":"",
+            "fechaCompra":"",
+            "valorCompra":"",
+            "nroMatricula":"",
+            "id":""
+        }
+        
+    
+    
+    
+        ],
+
+    "empleados":[
+        {
+            "cc":"",
+            "nombresPersonal":"",
+            "numeroCelular":"",
+            "email":"",
+            "rango":"",
+            "id":""
+
+    
+        }
+    
+    
+    
+    ]
+
+
+}
